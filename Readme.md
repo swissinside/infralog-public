@@ -8,8 +8,6 @@
 - *.tru
 - *.usar
 
-This repository is currently only used to track issues related to Infralog.
-
 ## Features
 - DMI Icons as images
 - Position related to trackside BG-kilometer
