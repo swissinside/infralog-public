@@ -4,6 +4,7 @@
 - *.ilg/z (proprietary)
 - *.jru
 - *.mdr_i
+- *.tel
 - *.tru
 - *.usar
 
